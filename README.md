@@ -21,4 +21,4 @@
 ![output img](./screenshot/image.png)  
 
 ### Time Taken - 7 hours
-### Live link - 
+### Live link -  [Link](https://product-landing-page-ruddy-six.vercel.app/)
